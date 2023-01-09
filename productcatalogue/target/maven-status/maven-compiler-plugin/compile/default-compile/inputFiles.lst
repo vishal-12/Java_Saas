@@ -1,0 +1,6 @@
+/Users/vishalsharma/Desktop/gitlab_pipeline/docker-Java-kubernetes-project/productcatalogue/src/main/java/uk/co/danielbryant/djshopping/productcatalogue/healthchecks/BasicHealthCheck.java
+/Users/vishalsharma/Desktop/gitlab_pipeline/docker-Java-kubernetes-project/productcatalogue/src/main/java/uk/co/danielbryant/djshopping/productcatalogue/model/Product.java
+/Users/vishalsharma/Desktop/gitlab_pipeline/docker-Java-kubernetes-project/productcatalogue/src/main/java/uk/co/danielbryant/djshopping/productcatalogue/configuration/ProductServiceConfiguration.java
+/Users/vishalsharma/Desktop/gitlab_pipeline/docker-Java-kubernetes-project/productcatalogue/src/main/java/uk/co/danielbryant/djshopping/productcatalogue/ProductServiceApplication.java
+/Users/vishalsharma/Desktop/gitlab_pipeline/docker-Java-kubernetes-project/productcatalogue/src/main/java/uk/co/danielbryant/djshopping/productcatalogue/resources/ProductResource.java
+/Users/vishalsharma/Desktop/gitlab_pipeline/docker-Java-kubernetes-project/productcatalogue/src/main/java/uk/co/danielbryant/djshopping/productcatalogue/services/ProductService.java
